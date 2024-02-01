@@ -65,3 +65,6 @@ Delta Lake is well known for being scalable to huge tables but is also an excell
 Delta Lake is a lightweight technology, so there is little overhead.  Writing the metadata file after performing a transaction is fast.  It’s a minuscule cost, considering the benefits you receive.
 
 Many reasons that make Delta Lake better than data lakes for large tables also apply to small tables!
+
+
+This is some stuff.
